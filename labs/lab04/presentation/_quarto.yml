@@ -22,6 +22,7 @@ format: # Formats
     section-titles: true
     incremental: true
     navigation: horizontal
+    theme: metropolis
     csquotes: true
     indent: true
     include-in-header:
@@ -34,5 +35,4 @@ format: # Formats
     smaller: true
     slide-number: true
     output-ext: html
-    theme: beige
     logo: _resources/image/logo_rudn.png
