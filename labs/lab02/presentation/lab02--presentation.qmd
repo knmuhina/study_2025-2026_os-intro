@@ -10,7 +10,7 @@ author:
       city: Москва
       address: ул. Орджоникидзе, д. 3
 ## Title
-title: Первоначальна настройка git
+title: Первоначальная настройка git
 subtitle: Лабораторная работа №2
 licence: CC BY-NC
 date: today
